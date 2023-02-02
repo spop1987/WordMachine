@@ -1,0 +1,15 @@
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\WordMachine.csproj.AssemblyReference.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\WordMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\WordMachine.AssemblyInfoInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\WordMachine.AssemblyInfo.cs
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\WordMachine.csproj.CoreCompileInputs.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\bin\Debug\net6.0\WordMachine.exe
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\bin\Debug\net6.0\WordMachine.deps.json
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\bin\Debug\net6.0\WordMachine.runtimeconfig.json
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\bin\Debug\net6.0\WordMachine.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\bin\Debug\net6.0\WordMachine.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\WordMachine.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\refint\WordMachine.dll
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\WordMachine.pdb
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\WordMachine.genruntimeconfig.cache
+C:\Users\sergio.perez\RepositoriesOfSergio\WordMachine\WordMachine\obj\Debug\net6.0\ref\WordMachine.dll
